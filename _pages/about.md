@@ -48,7 +48,5 @@ Research Assistant
 Advisor: [Prof. Sibo Wang](https://www1.se.cuhk.edu.hk/~swang/). Jun. 2023 - Aug. 2023.  
 Research on efficient dynamic subgraph node embedding over the large-scale graph.
 
-## Teaching
-
 ## Awards
 - **Outstanding Bachelor Thesis Award** from the School of Computer Science (1%), 2025
