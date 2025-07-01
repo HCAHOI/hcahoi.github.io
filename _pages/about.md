@@ -7,9 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-I recently received my B.Eng. in Computer Science and Technology from the [School of Electronic Information and Electrical Engineering (SEIEE)](https://english.seiee.sjtu.edu.cn/) at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/) in June 2025, where I was very fortunate to be advised by [Prof. Shixuan Sun](https://shixuansun.github.io/). It's also my honor to be advised by [Prof. Bingsheng He](https://www.comp.nus.edu.sg/~hebs/) in [National University of Singapore](http://www.nus.edu.sg/) and [Prof. Sibo Wang](https://www1.se.cuhk.edu.hk/~swang/) in [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/).
+I recently received my B.Eng. in Computer Science and Technology from the [School of Electronic Information and Electrical Engineering (SEIEE)](https://english.seiee.sjtu.edu.cn/) at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/) in June 2025 and won the [Outstanding Thesis Award](https://mp.weixin.qq.com/s/3x_Zj_OL7N2nzZq-ZgEDLg), where I was very fortunate to be advised by [Prof. Shixuan Sun](https://shixuansun.github.io/). It's also my honor to be advised by [Prof. Bingsheng He](https://www.comp.nus.edu.sg/~hebs/) in [National University of Singapore](http://www.nus.edu.sg/) and [Prof. Sibo Wang](https://www1.se.cuhk.edu.hk/~swang/) in [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/).
 
 My research interests focus on high-performance data systems, including graph systems, AI for DB, and data storage.
+
+## News
+- [2025.6]: 🎓I graduated from Shanghai Jiao Tong University!
+- [2025.6]: 🎉*RapidStore: An Efficient Dynamic Graph Storage System for Concurrent Queries* was accepted to VLDB'25!
+- [2025.5]: 🎉I won the Outstanding Bachelor Thesis Award from the School of Computer Science!
+- [2024.10]: 🎉*Revisiting the Design of In-Memory Dynamic Graph Storage* was accepted to SIGMOD'25.
 
 ## Publications
 - **RapidStore: An Efficient Dynamic Graph Storage System for Concurrent Queries** [[code]](https://github.com/HCAHOI/RapidStore)  
@@ -29,7 +35,7 @@ B.Eng. in Computer Science and Technology at [SEIEE](https://english.seiee.sjtu.
 ## Experiences
 - **Shanghai Jiao Tong University - EPCC-Liquid Group**  
 Research Assistant  
-Advisor: [Prof. Shixuan Sun](https://shixuansun.github.io/). Sept. 2023 - _Present_.  
+Advisor: [Prof. Shixuan Sun](https://shixuansun.github.io/). Sept. 2023 - *Present*.  
 Research on extended dynamic graph storage system benchmark (SIGMOD'25).
 
 - **National University of Singapore - Xtra Group**  
@@ -42,5 +48,7 @@ Research Assistant
 Advisor: [Prof. Sibo Wang](https://www1.se.cuhk.edu.hk/~swang/). Jun. 2023 - Aug. 2023.  
 Research on efficient dynamic subgraph node embedding over the large-scale graph.
 
+## Teaching
+
 ## Awards
-- *Outstanding Bachelor Thesis Award* from the School of Computer Science (1%), 2025
+- **Outstanding Bachelor Thesis Award** from the School of Computer Science (1%), 2025
