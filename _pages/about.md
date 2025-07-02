@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Chiyu Hao"
+title: "About"
 author_profile: true
 redirect_from: 
   - /about/
@@ -50,3 +50,4 @@ Research on efficient dynamic subgraph node embedding over the large-scale graph
 
 ## Awards
 - **Outstanding Bachelor Thesis Award** from the School of Computer Science (1%), 2025
+- **Meng Man Wai International Exchange Fund**, 2025
