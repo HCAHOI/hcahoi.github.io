@@ -12,10 +12,10 @@ I recently received my B.Eng. in Computer Science and Technology from the [Schoo
 My research interests focus on high-performance data systems, including graph systems, AI for DB, and data storage.
 
 ## News
-- [2025.6]: I graduated from Shanghai Jiao Tong University!
-- [2025.6]: *RapidStore: An Efficient Dynamic Graph Storage System for Concurrent Queries* was accepted to VLDB'25!
-- [2025.5]: I won the Outstanding Bachelor Thesis Award from the School of Computer Science!
-- [2024.10]: *Revisiting the Design of In-Memory Dynamic Graph Storage* was accepted to SIGMOD'25!
+* \[2025.6\]: 🎓I graduated from Shanghai Jiao Tong University!
+* \[2025.6\]: 🎉*RapidStore: An Efficient Dynamic Graph Storage System for Concurrent Queries* was accepted to VLDB'25!
+* \[2025.5\]: 🎉I won the Outstanding Bachelor Thesis Award from the School of Computer Science!
+* \[2024.10\]: 🎉*Revisiting the Design of In-Memory Dynamic Graph Storage* was accepted to SIGMOD'25!
 
 ## Publications
 - **RapidStore: An Efficient Dynamic Graph Storage System for Concurrent Queries** [[code]](https://github.com/HCAHOI/RapidStore)  
