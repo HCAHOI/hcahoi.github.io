@@ -12,7 +12,7 @@ I recently received my B.Eng. in Computer Science and Technology from the [Schoo
 My research interests focus on high-performance data systems, including graph systems, AI for DB, and data storage.
 
 <div style="background-color:#f5f5f5; padding:10px; border-radius:6px;">
-I'm preparing for a <strong>Fall 2026 PhD</strong> position application. If you are also interested in the application, feel free to reach out🥰.
+I'm preparing for the <strong>Fall 2026 PhD</strong> position application. If you're also interested in the application, feel free to reach out🥰.
 </div>
 
 ## News
