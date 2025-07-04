@@ -9,7 +9,7 @@ redirect_from:
 
 I recently received my B.Eng. in Computer Science and Technology from the [School of Electronic Information and Electrical Engineering (SEIEE)](https://english.seiee.sjtu.edu.cn/) at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/) in June 2025 and won the [Outstanding Thesis Award](https://mp.weixin.qq.com/s/3x_Zj_OL7N2nzZq-ZgEDLg), where I was very fortunate to be advised by [Prof. Shixuan Sun](https://shixuansun.github.io/). It's also my honor to be advised by [Prof. Bingsheng He](https://www.comp.nus.edu.sg/~hebs/) in [National University of Singapore](http://www.nus.edu.sg/) and [Prof. Sibo Wang](https://www1.se.cuhk.edu.hk/~swang/) in [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/).
 
-My research interests focus on high-performance data systems, including graph systems, AI for DB, and data storage.
+My research interests focus on high-performance data systems, including AI for DB, graph systems, and data storage.
 
 <div style="background-color:#f5f5f5; padding:10px; border-radius:6px;">
 I'm preparing for the <strong>Fall 2026 PhD</strong> position application. If you're also interested in the application, feel free to reach out🥰.
@@ -17,9 +17,9 @@ I'm preparing for the <strong>Fall 2026 PhD</strong> position application. If yo
 
 ## News
 * \[2025.6\]: 🎓I graduated from Shanghai Jiao Tong University!
-* \[2025.6\]: 🎉*RapidStore: An Efficient Dynamic Graph Storage System for Concurrent Queries* was accepted to VLDB'25!
+* \[2025.6\]: 🎉*RapidStore: An Efficient Dynamic Graph Storage System for Concurrent Queries* was accepted to VLDB'25. Sincere thanks to all co-authors!
 * \[2025.5\]: 🎉I won the Outstanding Bachelor Thesis Award from the School of Computer Science!
-* \[2024.10\]: 🎉*Revisiting the Design of In-Memory Dynamic Graph Storage* was accepted to SIGMOD'25!
+* \[2024.10\]: 🎉*Revisiting the Design of In-Memory Dynamic Graph Storage* was accepted to SIGMOD'25. Sincere thanks to all co-authors!
 
 ## Publications
 - **RapidStore: An Efficient Dynamic Graph Storage System for Concurrent Queries** [[code]](https://github.com/HCAHOI/RapidStore)  
