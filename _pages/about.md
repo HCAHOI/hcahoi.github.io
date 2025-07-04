@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I recently received my B.Eng. in Computer Science and Technology from the [School of Electronic Information and Electrical Engineering (SEIEE)](https://english.seiee.sjtu.edu.cn/) at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/) in June 2025 and won the [Outstanding Thesis Award](https://mp.weixin.qq.com/s/3x_Zj_OL7N2nzZq-ZgEDLg), where I was very fortunate to be advised by [Prof. Shixuan Sun](https://shixuansun.github.io/). It's also my honor to be advised by [Prof. Bingsheng He](https://www.comp.nus.edu.sg/~hebs/) in [National University of Singapore](http://www.nus.edu.sg/) and [Prof. Sibo Wang](https://www1.se.cuhk.edu.hk/~swang/) in [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/).
+I recently received my B.Eng. in Computer Science and Technology from the [School of Electronic Information and Electrical Engineering (SEIEE)](https://english.seiee.sjtu.edu.cn/) at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/) in June 2025 and won the [Outstanding Thesis Award](https://mp.weixin.qq.com/s/3x_Zj_OL7N2nzZq-ZgEDLg), where I was very fortunate to be advised by [Prof. Shixuan Sun](https://shixuansun.github.io/). It's also my honor to be advised by [Prof. Bingsheng He](https://www.comp.nus.edu.sg/~hebs/) at [National University of Singapore](http://www.nus.edu.sg/) and [Prof. Sibo Wang](https://www1.se.cuhk.edu.hk/~swang/) at [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/).
 
 My research interests focus on high-performance data systems, including AI for DB, graph systems, and data storage.
 
@@ -23,7 +23,7 @@ I'm preparing for the <strong>Fall 2026 PhD</strong> position application. If yo
 
 ## Publications
 - **RapidStore: An Efficient Dynamic Graph Storage System for Concurrent Queries** [[paper]](https://arxiv.org/abs/2507.00839)[[code]](https://github.com/SJTU-Liquid/RapidStore)  
-**Chiyu Hao**, Jixian Su, Shixuan Sun, Hao Zhang, Sen Gao, Jianwen Zhao, Chenyi Zhang, Jieru Zhao, Chen Chen, Minyi Guo
+**Chiyu Hao**, Jixian Su, Shixuan Sun, Hao Zhang, Sen Gao, Jianwen Zhao, Chenyi Zhang, Jieru Zhao, Chen Chen, Minyi Guo.
 Proceedings of the VLDB Endowment (**VLDB'25**).
 
 - **Revisiting the Design of In-Memory Dynamic Graph Storage** [[paper]](https://dl.acm.org/doi/abs/10.1145/3709720) [[code]](https://github.com/SJTU-Liquid/DynamicGraphStorage)  
