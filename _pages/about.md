@@ -22,7 +22,7 @@ I'm preparing for the <strong>Fall 2026 PhD</strong> position application. If yo
 * \[2024.10\]: 🎉*Revisiting the Design of In-Memory Dynamic Graph Storage* was accepted to SIGMOD'25. Sincere thanks to all co-authors!
 
 ## Publications
-- **RapidStore: An Efficient Dynamic Graph Storage System for Concurrent Queries** [[code]](https://github.com/HCAHOI/RapidStore)  
+- **RapidStore: An Efficient Dynamic Graph Storage System for Concurrent Queries** [[paper]](https://arxiv.org/abs/2507.00839)[[code]](https://github.com/SJTU-Liquid/RapidStore)  
 **Chiyu Hao**, Jixian Su, Shixuan Sun, Hao Zhang, Sen Gao, Jianwen Zhao, Chenyi Zhang, Jieru Zhao, Chen Chen, Minyi Guo
 Proceedings of the VLDB Endowment (**VLDB'25**).
 
