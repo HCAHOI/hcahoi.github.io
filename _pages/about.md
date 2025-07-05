@@ -23,19 +23,19 @@ I'm preparing for the <strong>Fall 2026 PhD</strong> position application. If yo
 
 ## Publications
 - **RapidStore: An Efficient Dynamic Graph Storage System for Concurrent Queries** [[paper]](https://arxiv.org/abs/2507.00839)[[code]](https://github.com/SJTU-Liquid/RapidStore)  
-**Chiyu Hao**, Jixian Su, Shixuan Sun, Hao Zhang, Sen Gao, Jianwen Zhao, Chenyi Zhang, Jieru Zhao, Chen Chen, Minyi Guo.
+**Chiyu Hao**, Jixian Su, Shixuan Sun, Hao Zhang, Sen Gao, Jianwen Zhao, Chenyi Zhang, Jieru Zhao, Chen Chen, Minyi Guo.\
 Proceedings of the VLDB Endowment (**VLDB'25**).
 
 - **Revisiting the Design of In-Memory Dynamic Graph Storage** [[paper]](https://dl.acm.org/doi/abs/10.1145/3709720) [[code]](https://github.com/SJTU-Liquid/DynamicGraphStorage)  
-Jixian Su*, **Chiyu Hao\***, Shixuan Sun, Hao Zhang, Sen Gao, Jiaxin Jiang, Yao Chen, Chenyi Zhang, Bingsheng He, Minyi Guo.
+Jixian Su*, **Chiyu Hao\***, Shixuan Sun, Hao Zhang, Sen Gao, Jiaxin Jiang, Yao Chen, Chenyi Zhang, Bingsheng He, Minyi Guo.\
 Proceedings of the ACM on Management of Data (**SIGMOD'25**).
 
 *: Equal contribution.
 
 ## Education
 - **Shanghai Jiao Tong University**  
-B.Eng. in Computer Science and Technology at [SEIEE](https://english.seiee.sjtu.edu.cn/). Sept. 2021 - June 2025.
-GPA 4.02/4.3, Rank: 6/102
+B.Eng. in Computer Science and Technology at [SEIEE](https://english.seiee.sjtu.edu.cn/). Sept. 2021 - June 2025.\
+GPA: 4.02/4.3, Rank: 6/102
 
 ## Experiences
 - **Shanghai Jiao Tong University - EPCC-Liquid Group**  
