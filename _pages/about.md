@@ -54,5 +54,5 @@ Advisor: [Prof. Sibo Wang](https://www1.se.cuhk.edu.hk/~swang/). Jun. 2023 - Aug
 Research on efficient dynamic subgraph node embedding over the large-scale graph.
 
 ## Awards
-- **Outstanding Bachelor Thesis Award** from the School of Computer Science (1%), 2025
+- **Outstanding Bachelor Thesis Award** from the School of Computer Science, 2025
 - **Meng Man Wai International Exchange Fund**, 2025
