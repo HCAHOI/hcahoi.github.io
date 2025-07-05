@@ -35,7 +35,6 @@ Proceedings of the ACM on Management of Data (**SIGMOD'25**).
 ## Education
 - **Shanghai Jiao Tong University**  
 B.Eng. in Computer Science and Technology at [SEIEE](https://english.seiee.sjtu.edu.cn/). Sept. 2021 - June 2025.
-
 GPA 4.02/4.3, Rank: 6/102
 
 ## Experiences
