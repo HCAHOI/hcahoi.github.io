@@ -16,9 +16,9 @@ I'm preparing for the <strong>Fall 2026 PhD</strong> position application. If yo
 </div>
 
 ## News
-* \[2025.6\]: 🎓I graduated from Shanghai Jiao Tong University!
-* \[2025.6\]: 🎉*RapidStore: An Efficient Dynamic Graph Storage System for Concurrent Queries* was accepted to VLDB'25. Sincere thanks to all co-authors!
-* \[2025.5\]: 🎉I won the Outstanding Bachelor Thesis Award from the School of Computer Science!
+* \[2025.06\]: 🎓I graduated from Shanghai Jiao Tong University!
+* \[2025.06\]: 🎉*RapidStore: An Efficient Dynamic Graph Storage System for Concurrent Queries* was accepted to VLDB'25. Sincere thanks to all co-authors!
+* \[2025.05\]: 🎉I won the Outstanding Bachelor Thesis Award from the School of Computer Science!
 * \[2024.10\]: 🎉*Revisiting the Design of In-Memory Dynamic Graph Storage* was accepted to SIGMOD'25. Sincere thanks to all co-authors!
 
 ## Publications
@@ -34,7 +34,9 @@ Proceedings of the ACM on Management of Data (**SIGMOD'25**).
 
 ## Education
 - **Shanghai Jiao Tong University**  
-B.Eng. in Computer Science and Technology at [SEIEE](https://english.seiee.sjtu.edu.cn/). Sept. 2021 - June 2025.  
+B.Eng. in Computer Science and Technology at [SEIEE](https://english.seiee.sjtu.edu.cn/). Sept. 2021 - June 2025.
+
+GPA 4.02/4.3, Rank: 6/102
 
 ## Experiences
 - **Shanghai Jiao Tong University - EPCC-Liquid Group**  
