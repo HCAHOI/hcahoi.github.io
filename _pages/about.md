@@ -9,7 +9,7 @@ redirect_from:
 
 I recently received my B.Eng. in Computer Science and Technology from the [School of Electronic Information and Electrical Engineering (SEIEE)](https://english.seiee.sjtu.edu.cn/) at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/) in June 2025 and won the [Outstanding Thesis Award](https://mp.weixin.qq.com/s/3x_Zj_OL7N2nzZq-ZgEDLg), where I was very fortunate to be advised by [Prof. Shixuan Sun](https://shixuansun.github.io/). It's also my honor to be advised by [Prof. Bingsheng He](https://www.comp.nus.edu.sg/~hebs/) at [National University of Singapore](http://www.nus.edu.sg/) and [Prof. Sibo Wang](https://www1.se.cuhk.edu.hk/~swang/) at [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/).
 
-My research interests focus on high-performance data systems, including AI for DB, graph systems, and data storage.
+My research interests revolve around the intersection of systems and machine learning, specifically how to make systems **larger and faster** and enable their accelerated upper-layer applications to, in turn, optimize the system's operation.
 
 <div style="background-color:#f5f5f5; padding:10px; border-radius:6px;">
 I'm preparing for the <strong>Fall 2026 PhD</strong> position application. If you're also interested in the application, feel free to reach out🥰.
